@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/faker/static/css/main.b51a5e2c.chunk.css",
+    "main.js": "/faker/static/js/main.fe37e547.chunk.js",
+    "main.js.map": "/faker/static/js/main.fe37e547.chunk.js.map",
+    "runtime-main.js": "/faker/static/js/runtime-main.d4269430.js",
+    "runtime-main.js.map": "/faker/static/js/runtime-main.d4269430.js.map",
+    "static/css/2.9aa56ee6.chunk.css": "/faker/static/css/2.9aa56ee6.chunk.css",
+    "static/js/2.f8f807cb.chunk.js": "/faker/static/js/2.f8f807cb.chunk.js",
+    "static/js/2.f8f807cb.chunk.js.map": "/faker/static/js/2.f8f807cb.chunk.js.map",
+    "index.html": "/faker/index.html",
+    "static/css/2.9aa56ee6.chunk.css.map": "/faker/static/css/2.9aa56ee6.chunk.css.map",
+    "static/css/main.b51a5e2c.chunk.css.map": "/faker/static/css/main.b51a5e2c.chunk.css.map",
+    "static/js/2.f8f807cb.chunk.js.LICENSE.txt": "/faker/static/js/2.f8f807cb.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/faker/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4269430.js",
+    "static/css/2.9aa56ee6.chunk.css",
+    "static/js/2.f8f807cb.chunk.js",
+    "static/css/main.b51a5e2c.chunk.css",
+    "static/js/main.fe37e547.chunk.js"
+  ]
+}
